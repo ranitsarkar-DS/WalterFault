@@ -133,6 +133,10 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+demo.py
 artifacts
 prediction_artifacts
 predictions
+test.ipynb
+
+#test
